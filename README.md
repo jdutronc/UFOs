@@ -10,7 +10,7 @@ Our friend Dana has tasked us with building an html page to display and filter U
 
 We have created a neat welcome screen with a large jumbotron image across, a title and a welcome text by Dana.
 
-<img align="center" src="../static/images/home_screen.png" width=page>
+<img align="center" src="./static/images/home_screen.png" width=page>
 
 
 
