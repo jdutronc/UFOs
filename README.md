@@ -12,6 +12,9 @@ We have created a neat welcome screen with a large jumbotron image across, a tit
 
 <img align="center" src="./static/images/home_screen.png" width=page>
 
+### UFO Data Table
 
+Below the welcom screen, users can browse and filter our UFO data by multiple criteria: date, city, state, country and UFO shape.
 
+<img align="center" src="./static/images/table.png" width=page>
 
