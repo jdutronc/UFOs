@@ -18,3 +18,24 @@ Below the welcom screen, users can browse and filter our UFO data by multiple cr
 
 <img align="center" src="./static/images/table.png" width=page>
 
+### User Guide
+
+Users can filter the data by inputting parameters in the fields on the left-hand side of the screen, then press Enter.
+
+<img align="center" src="./static/images/search.png" width=page>
+
+Make sure to input all text entries in lowercase, without spaces or hyphens. For instance, based on our search above, "Ackerman" will return "no result".
+
+<img align="center" src="./static/images/Ackerman.png" width=page>
+
+To reset the filter criteria, click the UFO Sightings at the top left of the website.
+
+
+## Summary
+
+### Drawback
+
+Users must have a pretty good idea of what they're looking for before using the search filters. All text entries must be in lowercase, without spaces and hyphens and be spelled perfectly. Dates must be in the right format, and the filter only allows to search one date at a time. All states are abbreviated and in lowercase, so for example "Texas" can only be returned as "tx", and inputs "Texas", "TX", "texs" and " tx" will return an empty table.
+
+### 
+
