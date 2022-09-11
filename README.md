@@ -10,8 +10,11 @@ Our friend Dana has tasked us with building an html page to display and filter U
 
 We have created a neat welcome screen with a large jumbotron image across, a title and a welcome text by Dana.
 
-<img align="center" src="../static/images/home_screen.png" width=page>
+<img align="center" src="./static/images/home_screen.png" width=page>
 
+### UFO Data Table
 
+Below the welcom screen, users can browse and filter our UFO data by multiple criteria: date, city, state, country and UFO shape.
 
+<img align="center" src="./static/images/table.png" width=page>
 
