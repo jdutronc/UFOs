@@ -26,7 +26,7 @@ Users can filter the data by inputting parameters in the fields on the left-hand
 
 Make sure to input all text entries in lowercase, without spaces or hyphens. For instance, based on our search above, "Ackerman" will return "no result".
 
-<img align="center" src="./static/images/Ackerman.png" width=page>
+<img align="center" src="./static/images/search_ackerman.png" width=page>
 
 To reset the filter criteria, click the UFO Sightings at the top left of the website.
 
